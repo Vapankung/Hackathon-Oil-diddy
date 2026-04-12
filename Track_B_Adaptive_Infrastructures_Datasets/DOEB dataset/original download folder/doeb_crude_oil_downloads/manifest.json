@@ -1,0 +1,167 @@
+[
+  {
+    "dataset_title": "มูลค่าการนำเข้าน้ำมันดิบ",
+    "dataset_url": "https://data.doeb.go.th/dataset/s18",
+    "dataset_description": "มูลค่าการนำเข้าน้ำมันดิบ ของผู้ค้าน้ำมันตามมาตรา 7 แห่งพระราชบัญญัติการค้าน้ำมันเชื้อเพลิง พ.ศ. 2543",
+    "resource_label": "มูลค่าการนำเข้าน้ำมันดิบCSV",
+    "download_url": "https://data.doeb.go.th/dataset/e13b50da-b595-4a3e-b6b4-eab7b6253e54/resource/387aed14-75b5-4223-81e4-37c8a0e10c9a/download/vw_opendata_038_i_crude_value_data_view.csv",
+    "saved_path": "C:\\Users\\lanovo\\Downloads\\DOEB data\\doeb_crude_oil_downloads\\files\\มูลค่าการนำเข้าน้ำมันดิบ\\vw_opendata_038_i_crude_value_data_view.csv",
+    "http_status": 200,
+    "bytes": 21547,
+    "error": ""
+  },
+  {
+    "dataset_title": "ปริมาณการนำเข้าน้ำมันดิบและวัตถุดิบ",
+    "dataset_url": "https://data.doeb.go.th/dataset/s6",
+    "dataset_description": "ปริมาณการนำเข้าน้ำมันดิบและวัตถุดิบ เพื่อใช้ในการผลิตน้ำมันสำเร็จรูป ของผู้ค้าน้ำมันตามมาตรา 7 แห่งพระราชบัญญัติการค้าน้ำมันเชื้อเพลิง พ.ศ. 2543",
+    "resource_label": "ปริมาณการนำเข้าน้ำมันดิบและวัตถุดิบCSV",
+    "download_url": "https://data.doeb.go.th/dataset/cc953a16-9ac9-4d04-8be3-2d14595a746a/resource/694989fd-34db-4765-ab97-e45c247eead3/download/untitled.csv",
+    "saved_path": "C:\\Users\\lanovo\\Downloads\\DOEB data\\doeb_crude_oil_downloads\\files\\ปริมาณการนำเข้าน้ำมันดิบและวัตถุดิบ\\untitled.csv",
+    "http_status": 200,
+    "bytes": 15804,
+    "error": ""
+  },
+  {
+    "dataset_title": "ราคาการนำเข้าน้ำมันดิบ",
+    "dataset_url": "https://data.doeb.go.th/dataset/s21",
+    "dataset_description": "ราคาการนำเข้าน้ำมันดิบ ที่มีการอ้างอิงจากราคากลางตลาดโลก",
+    "resource_label": "ราคาการนำเข้าน้ำมันดิบ ปี 2563XLSX",
+    "download_url": "https://data.doeb.go.th/dataset/d28d9622-91ad-468f-adaa-b275cf57d336/resource/8c2ec335-8232-4e21-8d00-936bb8701846/download/35-2563.xlsx",
+    "saved_path": "C:\\Users\\lanovo\\Downloads\\DOEB data\\doeb_crude_oil_downloads\\files\\ราคาการนำเข้าน้ำมันดิบ\\35-2563.xlsx",
+    "http_status": 200,
+    "bytes": 9099,
+    "error": ""
+  },
+  {
+    "dataset_title": "ราคาการนำเข้าน้ำมันดิบ",
+    "dataset_url": "https://data.doeb.go.th/dataset/s21",
+    "dataset_description": "ราคาการนำเข้าน้ำมันดิบ ที่มีการอ้างอิงจากราคากลางตลาดโลก",
+    "resource_label": "ราคาการนำเข้าน้ำมันดิบ ปี 2564XLSX",
+    "download_url": "https://data.doeb.go.th/dataset/d28d9622-91ad-468f-adaa-b275cf57d336/resource/532a0e37-e6a0-4901-9b52-eb9e2d1d4892/download/35-2564.xlsx",
+    "saved_path": "C:\\Users\\lanovo\\Downloads\\DOEB data\\doeb_crude_oil_downloads\\files\\ราคาการนำเข้าน้ำมันดิบ\\35-2564.xlsx",
+    "http_status": 200,
+    "bytes": 9098,
+    "error": ""
+  },
+  {
+    "dataset_title": "ราคาการนำเข้าน้ำมันดิบ",
+    "dataset_url": "https://data.doeb.go.th/dataset/s21",
+    "dataset_description": "ราคาการนำเข้าน้ำมันดิบ ที่มีการอ้างอิงจากราคากลางตลาดโลก",
+    "resource_label": "ราคาการนำเข้าน้ำมันดิบ ปี 2565XLSX",
+    "download_url": "https://data.doeb.go.th/dataset/d28d9622-91ad-468f-adaa-b275cf57d336/resource/cef2c4da-5d74-4c95-82df-73b45a9bf6ef/download/35-2565.xlsx",
+    "saved_path": "C:\\Users\\lanovo\\Downloads\\DOEB data\\doeb_crude_oil_downloads\\files\\ราคาการนำเข้าน้ำมันดิบ\\35-2565.xlsx",
+    "http_status": 200,
+    "bytes": 9093,
+    "error": ""
+  },
+  {
+    "dataset_title": "ราคาการนำเข้าน้ำมันดิบ",
+    "dataset_url": "https://data.doeb.go.th/dataset/s21",
+    "dataset_description": "ราคาการนำเข้าน้ำมันดิบ ที่มีการอ้างอิงจากราคากลางตลาดโลก",
+    "resource_label": "ราคาการนำเข้าน้ำมันดิบ ปี 2566XLSX",
+    "download_url": "https://data.doeb.go.th/dataset/d28d9622-91ad-468f-adaa-b275cf57d336/resource/e87efa41-6b36-413b-9728-b4dac3a022ee/download/35-2566.xlsx",
+    "saved_path": "C:\\Users\\lanovo\\Downloads\\DOEB data\\doeb_crude_oil_downloads\\files\\ราคาการนำเข้าน้ำมันดิบ\\35-2566.xlsx",
+    "http_status": 200,
+    "bytes": 9088,
+    "error": ""
+  },
+  {
+    "dataset_title": "ราคาการนำเข้าน้ำมันดิบ",
+    "dataset_url": "https://data.doeb.go.th/dataset/s21",
+    "dataset_description": "ราคาการนำเข้าน้ำมันดิบ ที่มีการอ้างอิงจากราคากลางตลาดโลก",
+    "resource_label": "ราคาการนำเข้าน้ำมันดิบ ปี 2567XLSX",
+    "download_url": "https://data.doeb.go.th/dataset/d28d9622-91ad-468f-adaa-b275cf57d336/resource/5eae5621-eaee-421f-9677-b3b6d53c4e5a/download/untitled.xlsx",
+    "saved_path": "C:\\Users\\lanovo\\Downloads\\DOEB data\\doeb_crude_oil_downloads\\files\\ราคาการนำเข้าน้ำมันดิบ\\untitled.xlsx",
+    "http_status": 200,
+    "bytes": 9132,
+    "error": ""
+  },
+  {
+    "dataset_title": "มูลค่าการนําเข้าน้ำมันดิบ",
+    "dataset_url": "https://data.doeb.go.th/dataset/crude-value",
+    "dataset_description": "มูลค่าการนําเข้าน้ำมันดิบ โดยข้อมูลผู้ค้าน้ำมัน ตามมาตรา 7 แห่งพระราชบัญญัติการค้าน้ำมันเชื้อเพลิง พ.ศ.2543",
+    "resource_label": "มูลค่าการนำเข้าน้ำมันดิบXLSX",
+    "download_url": "https://data.doeb.go.th/dataset/61df10f0-395e-4029-88ce-135df8993957/resource/e5cd0162-96ae-422b-a512-3ae8896b902d/download/untitled.xlsx",
+    "saved_path": "C:\\Users\\lanovo\\Downloads\\DOEB data\\doeb_crude_oil_downloads\\files\\มูลค่าการนําเข้าน้ำมันดิบ\\untitled.xlsx",
+    "http_status": 200,
+    "bytes": 19259,
+    "error": ""
+  },
+  {
+    "dataset_title": "ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้าขบวนการกลั่น",
+    "dataset_url": "https://data.doeb.go.th/dataset/s9",
+    "dataset_description": "ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้าขบวนการกลั่น เพื่อผลิตเป็นน้ำมันสำเร็จรูป โดยผู้ค้าน้ำมันตามมาตรา 7 แห่งพระราชบัญญัติการค้าน้ำมันเชื้อเพลิง พ.ศ. 2543",
+    "resource_label": "ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้ากระบวนการกลั่น ปี 2563XLSX",
+    "download_url": "https://data.doeb.go.th/dataset/775b456e-939e-46ca-8b8f-b027ac118dcb/resource/752cb134-3aa3-4bb3-ac29-f02031041ae3/download/43-2563.xlsx",
+    "saved_path": "C:\\Users\\lanovo\\Downloads\\DOEB data\\doeb_crude_oil_downloads\\files\\ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้าขบวนการกลั่น\\43-2563.xlsx",
+    "http_status": 200,
+    "bytes": 9117,
+    "error": ""
+  },
+  {
+    "dataset_title": "ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้าขบวนการกลั่น",
+    "dataset_url": "https://data.doeb.go.th/dataset/s9",
+    "dataset_description": "ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้าขบวนการกลั่น เพื่อผลิตเป็นน้ำมันสำเร็จรูป โดยผู้ค้าน้ำมันตามมาตรา 7 แห่งพระราชบัญญัติการค้าน้ำมันเชื้อเพลิง พ.ศ. 2543",
+    "resource_label": "ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้ากระบวนการกลั่น ปี 2564XLSX",
+    "download_url": "https://data.doeb.go.th/dataset/775b456e-939e-46ca-8b8f-b027ac118dcb/resource/e0117e86-3c78-47d1-8505-c6d741da2df3/download/43-2564.xlsx",
+    "saved_path": "C:\\Users\\lanovo\\Downloads\\DOEB data\\doeb_crude_oil_downloads\\files\\ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้าขบวนการกลั่น\\43-2564.xlsx",
+    "http_status": 200,
+    "bytes": 9122,
+    "error": ""
+  },
+  {
+    "dataset_title": "ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้าขบวนการกลั่น",
+    "dataset_url": "https://data.doeb.go.th/dataset/s9",
+    "dataset_description": "ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้าขบวนการกลั่น เพื่อผลิตเป็นน้ำมันสำเร็จรูป โดยผู้ค้าน้ำมันตามมาตรา 7 แห่งพระราชบัญญัติการค้าน้ำมันเชื้อเพลิง พ.ศ. 2543",
+    "resource_label": "ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้ากระบวนการกลั่น ปี 2565XLSX",
+    "download_url": "https://data.doeb.go.th/dataset/775b456e-939e-46ca-8b8f-b027ac118dcb/resource/9a192b22-a371-41ee-b716-7b5283662983/download/43-2565.xlsx",
+    "saved_path": "C:\\Users\\lanovo\\Downloads\\DOEB data\\doeb_crude_oil_downloads\\files\\ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้าขบวนการกลั่น\\43-2565.xlsx",
+    "http_status": 200,
+    "bytes": 9118,
+    "error": ""
+  },
+  {
+    "dataset_title": "ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้าขบวนการกลั่น",
+    "dataset_url": "https://data.doeb.go.th/dataset/s9",
+    "dataset_description": "ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้าขบวนการกลั่น เพื่อผลิตเป็นน้ำมันสำเร็จรูป โดยผู้ค้าน้ำมันตามมาตรา 7 แห่งพระราชบัญญัติการค้าน้ำมันเชื้อเพลิง พ.ศ. 2543",
+    "resource_label": "ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้ากระบวนการกลั่น ปี 2566XLSX",
+    "download_url": "https://data.doeb.go.th/dataset/775b456e-939e-46ca-8b8f-b027ac118dcb/resource/07769ec1-a4b1-4a88-a067-6adcdbc19bf7/download/43-2566.xlsx",
+    "saved_path": "C:\\Users\\lanovo\\Downloads\\DOEB data\\doeb_crude_oil_downloads\\files\\ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้าขบวนการกลั่น\\43-2566.xlsx",
+    "http_status": 200,
+    "bytes": 9121,
+    "error": ""
+  },
+  {
+    "dataset_title": "ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้าขบวนการกลั่น",
+    "dataset_url": "https://data.doeb.go.th/dataset/s9",
+    "dataset_description": "ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้าขบวนการกลั่น เพื่อผลิตเป็นน้ำมันสำเร็จรูป โดยผู้ค้าน้ำมันตามมาตรา 7 แห่งพระราชบัญญัติการค้าน้ำมันเชื้อเพลิง พ.ศ. 2543",
+    "resource_label": "ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้ากระบวนการกลั่น ปี 2567XLSX",
+    "download_url": "https://data.doeb.go.th/dataset/775b456e-939e-46ca-8b8f-b027ac118dcb/resource/c200741b-5d81-4478-9eb3-0f042cfd537f/download/amount_of_crude.xlsx",
+    "saved_path": "C:\\Users\\lanovo\\Downloads\\DOEB data\\doeb_crude_oil_downloads\\files\\ปริมาณการใช้น้ำมันดิบและวัตถุดิบเข้าขบวนการกลั่น\\amount_of_crude.xlsx",
+    "http_status": 200,
+    "bytes": 10257,
+    "error": ""
+  },
+  {
+    "dataset_title": "ปริมาณการนําเข้าน้ำมันเชื้อเพลิง",
+    "dataset_url": "https://data.doeb.go.th/dataset/crude-import",
+    "dataset_description": "ปริมาณการนําเข้าน้ำมันเชื้อเพลิง (น้ำมันดิบ) โดยข้อมูลผู้ค้าน้ำมัน ตามมาตรา 7 แห่งพระราชบัญญัติการค้าน้ำมันเชื้อเพลิง พ.ศ.2543",
+    "resource_label": "ปริมาณการนําเข้าน้ำมันเชื้อเพลิงXLSX",
+    "download_url": "https://data.doeb.go.th/dataset/2d856fa0-e0a4-477a-87f4-665b51f7ad97/resource/fd3c8724-ad4f-45f4-bd20-61fdaa423dfc/download/47.xlsx",
+    "saved_path": "C:\\Users\\lanovo\\Downloads\\DOEB data\\doeb_crude_oil_downloads\\files\\ปริมาณการนําเข้าน้ำมันเชื้อเพลิง\\47.xlsx",
+    "http_status": 200,
+    "bytes": 15722,
+    "error": ""
+  },
+  {
+    "dataset_title": "ปริมาณการนําเข้าน้ำมันดิบและวัตถุดิบ",
+    "dataset_url": "https://data.doeb.go.th/dataset/crude-material-import",
+    "dataset_description": "ปริมาณการนําเข้าน้ำมันดิบและวัตถุดิบ โดยข้อมูลผู้ค้าน้ำมัน ตามมาตรา 7 แห่งพระราชบัญญัติการค้าน้ำมันเชื้อเพลิง พ.ศ.2543",
+    "resource_label": "ปริมาณการนําเข้าน้ำมันดิบและวัตถุดิบXLSX",
+    "download_url": "https://data.doeb.go.th/dataset/d2819777-94b0-45b0-b8ce-1549fdb4f74d/resource/619468b6-01e7-4549-8a52-b92570ef5324/download/46.xlsx",
+    "saved_path": "C:\\Users\\lanovo\\Downloads\\DOEB data\\doeb_crude_oil_downloads\\files\\ปริมาณการนําเข้าน้ำมันดิบและวัตถุดิบ\\46.xlsx",
+    "http_status": 200,
+    "bytes": 15776,
+    "error": ""
+  }
+]
