@@ -1,0 +1,36 @@
+Pls install these library : 
+
+Flask
+pandas
+google-genai
+python-dotenv
+matplotlib 
+
+
+structure look like this:
+
+oil/
+│
+├── app.py
+├── .env
+├── requirements.txt
+│
+├── templates/
+│   └── index.html
+│
+├── static/
+│   ├── style.css
+│   └── script.js
+│
+├── data/
+│   └── owid-energy-data(clean).csv
+│
+└── utils/
+    ├── data_loader.py
+    ├── router.py
+    ├── analysis.py
+    └── gemini_client.py
+    └── graphing.py
+
+
+For venv if possible use 3.13.0 python
