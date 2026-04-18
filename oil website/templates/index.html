@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Thailand Oil Statistics Chatbot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="page">
+    <div class="chat-full">
+      <main class="chat-panel">
+        <div class="chat-header">
+          <div>
+            <h1>Thailand Oil Statistics Chatbot</h1>
+            <p>Grounded in your dataset. Clear answers, evidence, and reasoning.</p>
+          </div>
+          <div class="status-badge">Dataset Locked</div>
+        </div>
+
+        <div id="chat-box" class="chat-box">
+          <div class="msg bot">
+            <div class="msg-label">OilBot</div>
+            <div>Hello. Ask me about Thailand oil, energy, GDP, or renewables.</div>
+          </div>
+        </div>
+
+        <div class="input-area">
+          <input
+            id="message"
+            type="text"
+            placeholder="Ask a question about the dataset..."
+            autocomplete="off"
+          />
+          <button id="send-btn">Send</button>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
