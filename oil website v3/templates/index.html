@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Track B Money Resilience Lab v3</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Track B: Money Resilience Lab (v3)</h1>
+    <p class="subtitle">Prototype from <b>oil website v2</b> upgraded to causal inference + ABM + optimization, constrained to WB/OWID/DOEB/NESDC datasets.</p>
+
+    <section class="card">
+      <h2>Policy scenario</h2>
+      <div class="grid">
+        <label>Price shock (%)<input id="price_shock_pct" type="number" value="12" step="0.5"></label>
+        <label>Fuel subsidy (%)<input id="subsidy_pct" type="number" value="8" step="0.5"></label>
+        <label>Cash transfer (THB/month)<input id="cash_transfer_thb" type="number" value="250" step="10"></label>
+        <label>Optimization budget (B THB)<input id="budget_billion_thb" type="number" value="40" step="1"></label>
+      </div>
+      <button id="run-btn">Run Track B Evaluation</button>
+    </section>
+
+    <section class="card">
+      <h2>Summary</h2>
+      <pre id="summary">Press "Run Track B Evaluation".</pre>
+    </section>
+
+    <section class="card">
+      <h2>Model outputs (JSON)</h2>
+      <pre id="json-output"></pre>
+    </section>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
