@@ -29,6 +29,7 @@ from statsmodels.stats.stattools import durbin_watson
 from statsmodels.tsa.stattools import adfuller, kpss
 from utils.chat_engine import run_chatbot
 from utils.trackb_policy_models import run_trackb_policy_suite, agent_based_money_resilience, optimize_policy_mix
+from utils.doeb_macro_explorer import render_doeb_macro_explorer_tab
 
 
 # -----------------------------
@@ -1973,6 +1974,7 @@ main_tabs = st.tabs(
         "F — Methods & files",
         "G — Track B lab",
         "H — Causal/ABM/Optimization",
+        "I — DOEB Macro Explorer",
     ]
 )
 
@@ -2633,3 +2635,10 @@ with main_tabs[7]:
         st.info("Thailand context table is empty. Ensure OWID_Energy_Data.csv and DOEB/NESDC files are present in selected roots.")
     else:
         st.dataframe(trackb_thai_context.tail(20), use_container_width=True, hide_index=True)
+
+
+# -----------------------------
+# I: DOEB macro explorer
+# -----------------------------
+with main_tabs[8]:
+    render_doeb_macro_explorer_tab()
